@@ -1,9 +1,0 @@
-body {
-    margin: 0;
-    font-family: "Segoe UI", Arial, sans-serif;
-    background: linear-gradient(135deg, #EEF2F7 0%, #EEF2F7 25%, #C7D3E9 25%, #C7D3E9 50%, #90A1D5 50%, #90A1D5 75%, #5D6BB3 75%, #5D6BB3 100%);
-    color: #1a1a1a;
-    position: relative;
-    min-height: 100vh;
-    overflow-x: hidden;
-}
